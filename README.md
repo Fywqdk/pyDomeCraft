@@ -9,6 +9,8 @@ I initially looked into learning the math behind these calculators, to make a sc
 
 The script does not fully make the bottom part, where triangles would be cut in half, but it should be easy to fix, and allows for designing openings/doors etc. I figured this was manageable to finish in person if needed, by anyone willing to take on a project such as a dome like this.
 
+The steps and prompts used can be seen in the archive folder.
+
 ---
 
 How to use:
